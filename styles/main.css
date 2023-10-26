@@ -1,3 +1,18 @@
-body {
-    background: grey;
+
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(209, 209, 209);
+    height: 152px;
+    width: 90%;
+}
+
+.header__menu-item {
+    font-size: 19px;
+    line-height: 32px;
+    letter-spacing: 0.36px;
+    color: rgba(0, 128, 0, 0.507);
+    margin-right: 40px;
 }
