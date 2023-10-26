@@ -1,6 +1,6 @@
 # Homework_13_github
 
-##__Installation__
+__##Installation__
 1. Clone/download repo
 2. Run file index.html through the browser
 
